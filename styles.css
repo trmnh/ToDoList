@@ -1,0 +1,13 @@
+.column {
+  width: 30%;
+  padding: 5px;
+  border: 1px solid #ccc;
+  min-height: 200px;
+  transition: background-color 0.3s ease;
+}
+.draggable {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  cursor: move;
+}
